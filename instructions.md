@@ -1,5 +1,6 @@
-# Community project instructions  
+# Community project instructions
 
+## Unit 3 Class Creation 
 After completing these first assignments,
 - 3.20.Design a Class for your Community (Doc)
 - 3.20.Design a Class for your Community (Runestone)
