@@ -1,7 +1,7 @@
 # Community project instructions
 
 ## Unit 4 Data Collections
-In the [Unit 3 Class Creation](https://runestone.academy/ns/books/published/CSAwesomeCSD2025_26/unit3.html#unit3)), you came up with a class of your own choice relevant to you or your community. 
+In the [Unit 3 Class Creation](https://runestone.academy/ns/books/published/CSAwesomeCSD2025_26/unit3.html#unit3), you came up with a class of your own choice relevant to you or your community. 
 1. In [4.3.7 Design an Array of Objects for your Community](https://runestone.academy/ns/books/published/CSAwesomeCSD2025_26/topic-4-3-array-basics.html#design-an-array-of-objects-for-your-community), you created an array to hold objects of your class. Copy your array of objects code from this lesson or edit your existing code to add that feature
 2. In [4.4.10 Design an Array of Objects for your Community](https://runestone.academy/ns/books/published/CSAwesomeCSD2025_26/topic-4-4-array-traversal.html#topic-4-4-array-traversal-13), you added a loop to traverse your array to print out each object. Copy your updated code from this lesson or edit your existing code to add that feature
 3. Next you will update your project and replace these Arrays with ArrayLists.
